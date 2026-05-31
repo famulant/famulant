@@ -13,9 +13,7 @@ Welcome to my GitHub profile. I enjoy building software, exploring new technolog
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=famulant\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=famulant\&layout=compact\&theme=github_dark\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=famulant&theme=vue-dark&hide_border=true" alt="famulant's GitHub Stats" />
 
 ## 🏆 GitHub Trophies
 
