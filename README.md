@@ -15,10 +15,6 @@ Welcome to my GitHub profile. I enjoy building software, exploring new technolog
 
 <img src="https://streak-stats.demolab.com?user=famulant&theme=vue-dark&hide_border=true" alt="famulant's GitHub Stats" />
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=famulant\&theme=darkhub\&no-frame=true\&margin-w=10)
-
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=famulant\&theme=github-dark)
