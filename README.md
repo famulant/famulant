@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Famulant
 
-### Software Developer • Open Source Enthusiast • Lifelong Learner
+### Software Developer • Open Source Enthusiast
 
 Welcome to my GitHub profile. I enjoy building software, exploring new technologies, and creating solutions that make an impact.
 
